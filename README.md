@@ -1,12 +1,12 @@
 # Amran’s Learning & Portfolio Journey
 
-Halo, saya **Amran**, mahasiswa Teknik Elektro yang sedang belajar:
+Halo, saya **Amran Junaidi**, mahasiswa Teknik Elektro yang sedang belajar:
 - Internet of Things (IoT)
 - Cybersecurity
 - Pemrograman (C, C++, Python, PHP, Arduino)
 - Bahasa Inggris untuk studi lanjut
 
-Repositori ini saya buat untuk menyimpan hasil belajar dan proyek kecil selama perjalanan saya menuju profesional.
+Repositori ini saya buat untuk menyimpan hasil belajar dan proyek kecil selama perjalanan saya.
 
 ---
 
