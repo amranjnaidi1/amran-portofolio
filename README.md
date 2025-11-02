@@ -32,5 +32,3 @@ Repositori ini saya buat untuk menyimpan hasil belajar dan proyek kecil selama p
 
 ✨ *“Step by step, progress is still progress.”*
 
-✨ *“Step by step, progress is still progress.”*
-
