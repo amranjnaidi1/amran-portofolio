@@ -1,4 +1,4 @@
-# 🌱 Amran’s Learning & Portfolio Journey
+# Amran’s Learning & Portfolio Journey
 
 Halo, saya **Amran**, mahasiswa Teknik Elektro yang sedang belajar:
 - Internet of Things (IoT)
